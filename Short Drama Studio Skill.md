@@ -271,6 +271,17 @@ What the example does: the suitcase is the opening, the maids are the witnesses,
 - Every character has a name, an age and 2–3 details of appearance and clothing. The site draws the character from this line once and for all. In later episodes, copy these lines word for word.
 - The scene heading names the location and the time of day.
 - Every episode starts with its own EPISODE N heading.
+- if the script is in Arabic Language, add full Arabic diacritics (Tashkeel) to the Arabic text. Follow these instructions for this:
+
+Add all necessary diacritical marks (Fatha, Damma, Kasra, Sukun, Shadda, Tanween, etc.).
+Ensure grammatically correct and linguistically accurate diacritization.
+Follow proper Arabic grammar, syntax, and pronunciation rules.
+Preserve the original wording, meaning, sentence structure, and punctuation.
+Do not rewrite, paraphrase, translate, or omit any words.
+Pay special attention to correct case endings (I'rab).
+Use natural diacritization suitable for clear Arabic narration and voice-over.
+
+Return the fully diacritized Arabic text.
 
 ## 9. What to give the person
 
